@@ -1,3 +1,3 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-[OpenGeometry](https://github.com/OpenGeometry-io/OpenMaths)
+[OpenGeometry](https://github.com/OpenGeometry-io)
